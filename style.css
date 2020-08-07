@@ -1,0 +1,25 @@
+.container{
+    margin-bottom: 50px;
+}
+.buy-now{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 8px 25px;
+    cursor: pointer;
+}
+.see-all{
+    color: orange;
+    text-align: right;
+    text-decoration: none;
+    
+}
+.card{
+    border: none;
+    border-radius: 10%;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card-body{
+    justify-content: center;
+}
